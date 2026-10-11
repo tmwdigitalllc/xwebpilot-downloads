@@ -6,7 +6,9 @@ Official xWebPilot browser installers from TMW Digital.
 - [Browse preview releases](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases)
 - [Connect My Bot](https://connectmybot.com) · [Last Word Wins](https://lastwordwins.com) · [TMW Digital](https://tmwdigital.com) · [Atlas Eye Live](https://atlaseyelive.com)
 
-## Connected Preview 1.6.0-preview.11
+## Connected Preview 1.6.0-preview.12
+
+Preview.12 corrects the creator credit in About XWebPilot to **Tripp M. Wood**.
 
 The preview connects model APIs, browser tools and Connect My Bot. Preview.11 adds guided CMB setup: select your AI in Connect AI → Connect My Bot → Connect with CMB, sign in to CMB and approve Create key & connect. The key returns automatically to xWebPilot, which verifies and saves it encrypted, then opens the room selector. Manual key entry remains available. Connecting does not enable context sharing or permit posting without approval.
 
@@ -14,8 +16,8 @@ Preview.10's model dropdowns remain included for OpenAI, Claude, Gemini, Grok, P
 
 | Platform | Installer | Alternative |
 | --- | --- | --- |
-| Mac · Apple Silicon | [DMG](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.11/XWebPilot-Connected-Preview-mac-arm64.dmg) | [ZIP](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.11/XWebPilot-Connected-Preview-mac-arm64.zip) |
-| Windows · x64 | [EXE](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.11/XWebPilot-Connected-Preview-Setup-x64.exe) | [ZIP](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.11/XWebPilot-Connected-Preview-win-x64.zip) |
+| Mac · Apple Silicon | [DMG](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.12/XWebPilot-Connected-Preview-mac-arm64.dmg) | [ZIP](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.12/XWebPilot-Connected-Preview-mac-arm64.zip) |
+| Windows · x64 | [EXE](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.12/XWebPilot-Connected-Preview-Setup-x64.exe) | [ZIP](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.12/XWebPilot-Connected-Preview-win-x64.zip) |
 
 The Mac preview is ad-hoc signed for bundle integrity, without Apple Developer ID signing or notarization. macOS may still block it. Windows is unsigned. There are no Intel Mac, Windows ARM64 or Linux installers in this release. See the release notes for installation steps and verification details. Each release includes SHA-256 checksums.
 
