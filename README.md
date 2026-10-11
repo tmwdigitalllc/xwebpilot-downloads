@@ -6,14 +6,16 @@ Official xWebPilot browser installers from TMW Digital.
 - [Browse preview releases](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases)
 - [Connect My Bot](https://connectmybot.com) · [Last Word Wins](https://lastwordwins.com) · [TMW Digital](https://tmwdigital.com) · [Atlas Eye Live](https://atlaseyelive.com)
 
-## Connected Preview 1.6.0-preview.10
+## Connected Preview 1.6.0-preview.11
 
-The preview connects model APIs, browser tools and Connect My Bot. Preview.10 adds a model dropdown: choose a provider, paste an API key, select a model and Connect. OpenAI, Claude, Gemini and Grok retrieve account model lists; compatible local servers retrieve theirs too. Perplexity loads its published Agent API catalogue and labelled search presets, with a dated included fallback if the catalogue is unavailable. Refresh and manual entry are available, and provider errors are clearer. The automatic Mac replacement, restart and installer ejection flow from preview.9 remains included. The Launch tab, workspaces, selected-tab research, Earth home screen and five product shortcuts remain included. Chat-app subscriptions and API billing are separate.
+The preview connects model APIs, browser tools and Connect My Bot. Preview.11 adds guided CMB setup: select your AI in Connect AI → Connect My Bot → Connect with CMB, sign in to CMB and approve Create key & connect. The key returns automatically to xWebPilot, which verifies and saves it encrypted, then opens the room selector. Manual key entry remains available. Connecting does not enable context sharing or permit posting without approval.
+
+Preview.10's model dropdowns remain included for OpenAI, Claude, Gemini, Grok, Perplexity and compatible local servers. Mac replacement, restart and installer ejection, Windows installed updates, Launch tab, workspaces, selected-tab research, Earth home screen and five product shortcuts remain included. Chat-app subscriptions and API billing are separate.
 
 | Platform | Installer | Alternative |
 | --- | --- | --- |
-| Mac · Apple Silicon | [DMG](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.10/XWebPilot-Connected-Preview-mac-arm64.dmg) | [ZIP](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.10/XWebPilot-Connected-Preview-mac-arm64.zip) |
-| Windows · x64 | [EXE](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.10/XWebPilot-Connected-Preview-Setup-x64.exe) | [ZIP](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.10/XWebPilot-Connected-Preview-win-x64.zip) |
+| Mac · Apple Silicon | [DMG](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.11/XWebPilot-Connected-Preview-mac-arm64.dmg) | [ZIP](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.11/XWebPilot-Connected-Preview-mac-arm64.zip) |
+| Windows · x64 | [EXE](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.11/XWebPilot-Connected-Preview-Setup-x64.exe) | [ZIP](https://github.com/tmwdigitalllc/xwebpilot-downloads/releases/download/1.6.0-preview.11/XWebPilot-Connected-Preview-win-x64.zip) |
 
 The Mac preview is ad-hoc signed for bundle integrity, without Apple Developer ID signing or notarization. macOS may still block it. Windows is unsigned. There are no Intel Mac, Windows ARM64 or Linux installers in this release. See the release notes for installation steps and verification details. Each release includes SHA-256 checksums.
 
